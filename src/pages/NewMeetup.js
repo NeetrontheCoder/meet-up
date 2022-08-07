@@ -1,4 +1,4 @@
-function NewMeetupPage() { 
+function NewMeetupPage() {
   return <div>New Meetup Page</div>;
 }
 

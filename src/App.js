@@ -12,7 +12,7 @@ function App() {
       <MainNavigation />
       <Routes>
         <Route path="/" element={<AllMeetupsPage />} />
-        <Route path="/new-meetups" element={<NewMeetupPage />} />
+        <Route path="/new-meetup" element={<NewMeetupPage />} />
         <Route path="/favourites" element={<FavouritesPage />} />
       </Routes>
     </div>
